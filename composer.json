@@ -1,11 +1,10 @@
 {
-  "name": "vmasciotta/magento2-owl-carousel",
+  "name": "birenk/magento2-owl-carousel",
   "description": "A simple module that allows you to use OwlCarousel with Magento 2",
   "authors": [
     {
-      "name": "Valerio Masciotta",
-      "email": "sviluppo@valeriomasciotta.it",
-      "homepage": "http://www.valeriomasciotta.it"
+      "name": "Biren Patel",
+      "homepage": "http://www.google.com"
     }
   ],
   "require": {
