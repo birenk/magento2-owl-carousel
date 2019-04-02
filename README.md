@@ -17,7 +17,7 @@ Add the following lines into your composer.json
 ```
 or simply digit 
 ```
-composer require vmasciotta/magento2-owl-carousel
+composer require birenk/magento2-owl-carousel
 ```
  
 Then type the following commands from your Magento root:
